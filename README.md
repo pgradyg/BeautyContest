@@ -1,8 +1,8 @@
 # BeautyContest
-Keynesian Beauty Contest Simulator
-Assume there are x participants and y iterations in a guessing game.
-The goal is to guess a number that will be (1/3) of the average guessed number. The number is between 0 and 1000
-This script simulates this game over many iteration, with the ability to employ 7 strategies:
+Keynesian Beauty Contest Simulator \n
+Assume there are x participants and y iterations in a guessing game. \n
+The goal is to guess a number that will be (1/3) of the average guessed number. The number is between 0 and 1000 \n
+This script simulates this game over many iteration, with the ability to employ 7 strategies: \n
 
 # Random Strategy
   Random guess between 0 and 1000
